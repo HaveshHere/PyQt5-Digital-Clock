@@ -27,3 +27,7 @@ The application retrieves the current system time using QTime.currentTime() and 
 - Allow custom themes or colors.
   
 - Create a fullscreen clock mode.
+
+## 🎥 Video
+
+
