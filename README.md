@@ -30,4 +30,6 @@ The application retrieves the current system time using QTime.currentTime() and 
 
 ## 🎥 Video
 
+https://github.com/user-attachments/assets/743b1a09-147e-4fc1-b80e-237aef771d92
+
 
